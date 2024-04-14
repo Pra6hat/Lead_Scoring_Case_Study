@@ -18,8 +18,6 @@ An education company named X Education sells online courses to industry professi
 - Lead_Scoring_Notebook.ipynb : The python file showing coding and data analysis
 - Assignment Subjective Questions.pdf : Some subjective questions answered
 - Lead_Score_PPT.pdf : Final Presentation
-- Leads.csv : Data worked on
-- Leads Data Dictionary.xlsx : Data Dictionary
 - Lead_Scoring_Summary.pdf : Summary on what's done in the entire ipynb file
 
 - Submitted by: 
